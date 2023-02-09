@@ -1,0 +1,23 @@
+[GENERATED OBJECT FILE]
+b__showcase_rec.o
+[PROJECT FILES]
+/home/bt/semestr5/paradygmaty/lab1/final/ada_math/default.gpr
+20221027111234 699ca6e973a4de86078cbe8881a9d3ed
+[BOUND OBJECT FILES]
+/home/bt/semestr5/paradygmaty/lab1/final/ada_math/rec_math.o
+/home/bt/semestr5/paradygmaty/lab1/final/ada_math/showcase_rec.o
+[GENERATED SOURCE FILES]
+b__showcase_rec.ads
+b__showcase_rec.adb
+b__showcase_rec.ali
+[RESULTING OPTIONS]
+-L/home/bt/semestr5/paradygmaty/lab1/final/ada_math/
+-L/home/bt/semestr5/paradygmaty/lab1/final/ada_math/
+-L/usr/lib/gcc/x86_64-linux-gnu/10/adalib/
+-shared
+-shared-libgcc
+-lgnat-10
+-ldl
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/10/adalib/
+/usr/lib

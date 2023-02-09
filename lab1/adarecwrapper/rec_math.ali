@@ -1,0 +1,60 @@
+V "GNAT Lib v10"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_RECURSION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U rec_math%b		rec_math.adb		18d6090d NE OO PK
+
+U rec_math%s		rec_math.ads		2c14a122 EE NE OO PK
+
+D rec_math.ads		20221027113329 2c14a122 rec_math%s
+D rec_math.adb		20221027113329 34c2a82f rec_math%b
+D system.ads		20220628085427 4635ec04 system%s
+G a e
+G c Z s b [factorial rec_math 15 14 none]
+G c Z s b [nwd rec_math 21 14 none]
+G c Z s b [euclid_extend rec_math 27 14 none]
+G c Z s b [diophant rec_math 33 14 none]
+G c Z s s [extendedgcdIP rec_math 3 8 none]
+G c Z s s [paraIP rec_math 9 10 none]
+X 1 rec_math.ads
+1K9*Rec_math 38l5 38e13 2|1b14 69l5 69t13
+3R8*ExtendedGCD 7e15 27r50 2|31r45 33r11 56r11
+4i9*X{integer} 2|46r22 47m13 63r22
+5i9*Y{integer} 2|45r18 46m13 46r46 64r22
+6i9*D{integer} 2|59r22 63r31 64r31
+9R10*Para 12e15 33r45 2|53r45 55r11
+10i10*X{integer}
+11i9*Y{integer}
+15V14*Factorial{integer} 15>24 2|4b14 11s23 13l9 13t18
+15i24 Var{integer} 2|4b24 8r12 8r23 11r17 11r33
+21V14*NWD{integer} 21>18 21>31 2|16b14 20s16 23l9 23t12
+21i18 A{integer} 2|16b19 20r22 22r16
+21i31 B{integer} 2|16b33 19r12 20r20 20r28
+27V14*Euclid_extend{3R8} 27>28 27>30 2|31b10 44s16 50l9 50t22 58s16
+27i28 A{integer} 2|31b24 37r16
+27i30 B{integer} 2|31b26 36r17
+33V14*Diophant{9R10} 33>23 33>25 33>27 2|53b14 68l9 68t17
+33i23 A{integer} 2|53b23 58r30
+33i25 B{integer} 2|53b25 58r32
+33i27 C{integer} 2|53b27 59r12 63r25 64r25
+X 2 rec_math.adb
+33r5 Res{1|3R8} 41m13 42r20 44m9 45r14 46m9 46r18 46r42 47m9 48r16
+34i5 Atemp{integer} 37m9 40r17 44r36 46r27
+34i11 Btemp{integer} 36m9 39r12 44r30 44r46 46r33
+34i17 X{integer} 40m24 41r21
+34i19 Y{integer} 40m31 41r23
+34i21 D{integer} 40m13 41r25
+34i24 T{integer} 45m9 47r18
+54i9 X{integer} 60m13 63m13 66r17
+54i11 Y{integer} 61m13 64m13 66r19
+55r5 Res{1|9R10} 66m9 67r16
+56r5 Gcd{1|3R8} 58m9 59r18 63r18 63r27 64r18 64r27
+

@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/bt/semestr5/paradygmaty/lab1/final/adarecwrapper/default.gpr
+20221027113344 69762e2916494877ecab369d350261ee
+[BOUND OBJECT FILES]
+/home/bt/semestr5/paradygmaty/lab1/final/adarecwrapper/rec_math.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/bt/semestr5/paradygmaty/lab1/final/adarecwrapper/
+-L/home/bt/semestr5/paradygmaty/lab1/final/adarecwrapper/
+-L/usr/lib/gcc/x86_64-linux-gnu/10/adalib/
+-shared
+-shared-libgcc
+-lgnat-10
+-ldl
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/10/adalib/
+/usr/lib

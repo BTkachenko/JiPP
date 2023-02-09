@@ -1,0 +1,77 @@
+V "GNAT Lib v10"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_RECURSION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U iter_math%b		iter_math.adb		5496a4ce NE OO PK
+
+U iter_math%s		iter_math.ads		2285387d EE NE OO PK
+W interfaces%s		interfac.ads		interfac.ali
+W interfaces.c%s	i-c.adb			i-c.ali
+
+D ada.ads		20220628085427 76789da1 ada%s
+D a-unccon.ads		20220628085427 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20220628085427 5ab55268 interfaces%s
+D i-c.ads		20220628085427 5421119b interfaces.c%s
+D iter_math.ads		20221027113204 76a429e6 iter_math%s
+D iter_math.adb		20221027113204 22328d28 iter_math%b
+D system.ads		20220628085427 4635ec04 system%s
+D s-exctab.ads		20220628085427 54135002 system.exception_table%s
+D s-parame.ads		20220628085427 48ec542b system.parameters%s
+D s-stalib.ads		20220628085427 09bd3940 system.standard_library%s
+G a e
+G c Z s b [factorial iter_math 18 14 none]
+G c Z s b [nwd iter_math 24 14 none]
+G c Z s b [euclid_extend iter_math 30 14 none]
+G c Z s b [diophant iter_math 36 14 none]
+G c Z s s [extendedgcdIP iter_math 6 10 none]
+G c Z s s [paraIP iter_math 12 10 none]
+X 3 interfac.ads
+38K9*Interfaces 184e15 5|1r6 1r24
+X 4 i-c.ads
+18K20*C 230e17 5|1w17 1r35
+X 5 iter_math.ads
+4K9*Iter_math 41l5 41e14 6|1b14 72l5 72t14
+6R10*ExtendedGCD 10e15 30r50 6|31r49 33r11 56r11
+7i9*X{integer} 6|46r22 47m13 63r22
+8i9*Y{integer} 6|45r18 46m13 46r46 64r22
+9i9*D{integer} 6|59r22 63r31 64r31
+12R10*Para 15e15 36r45 6|53r45 55r11
+13i10*X{integer}
+14i9*Y{integer}
+18V14*Factorial{integer} 18>24 6|2b14 11l9 11t18
+18i24 Var{integer} 6|2b24 7r23
+24V14*NWD{integer} 24>18 24>31 6|15b14 28l9 28t12
+24i18 A{integer} 6|15b19 20r13
+24i31 B{integer} 6|15b33 19r13
+30V14*Euclid_extend{6R10} 30>28 30>30 6|31b14 44s16 50l9 50t22 58s16
+30i28 A{integer} 6|31b28 37r16
+30i30 B{integer} 6|31b30 36r17
+36V14*Diophant{12R10} 36>23 36>25 36>27 6|53b14 68l9 68t17
+36i23 A{integer} 6|53b23 58r30
+36i25 B{integer} 6|53b25 58r32
+36i27 C{integer} 6|53b27 59r12 63r25 64r25
+X 6 iter_math.adb
+4i9 R{integer} 6m9 8m9 8r14 10r16
+7i13 J{integer} 8r16
+17i5 Pom{integer} 23m13 25r21
+17i10 BTemp{integer} 19m5 22r23 23r18 24m13 24r32
+17i16 ATemp{integer} 20m5 24r22 25m13 27r16
+33r5 Res{5|6R10} 41m13 42r20 44m9 45r14 46m9 46r18 46r42 47m9 48r16
+34i5 Atemp{integer} 37m9 40r17 44r36 46r27
+34i11 Btemp{integer} 36m9 39r12 44r30 44r46 46r33
+34i17 X{integer} 40m24 41r21
+34i19 Y{integer} 40m31 41r23
+34i21 D{integer} 40m13 41r25
+34i24 T{integer} 45m9 47r18
+54i9 X{integer} 60m13 63m13 66r17
+54i11 Y{integer} 61m13 64m13 66r19
+55r5 Res{5|12R10} 66m9 67r16
+56r5 Gcd{5|6R10} 58m9 59r18 63r18 63r27 64r18 64r27
+

@@ -1,0 +1,15 @@
+/home/bt/semestr5/paradygmaty/lab2/csharp/bin/Debug/net6.0/csharp
+/home/bt/semestr5/paradygmaty/lab2/csharp/bin/Debug/net6.0/csharp.deps.json
+/home/bt/semestr5/paradygmaty/lab2/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/home/bt/semestr5/paradygmaty/lab2/csharp/bin/Debug/net6.0/csharp.dll
+/home/bt/semestr5/paradygmaty/lab2/csharp/bin/Debug/net6.0/ref/csharp.dll
+/home/bt/semestr5/paradygmaty/lab2/csharp/bin/Debug/net6.0/csharp.pdb
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.dll
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/ref/csharp.dll
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.pdb
+/home/bt/semestr5/paradygmaty/lab2/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache

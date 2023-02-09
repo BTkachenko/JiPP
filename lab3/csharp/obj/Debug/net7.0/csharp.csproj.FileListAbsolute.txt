@@ -1,0 +1,15 @@
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/bin/Debug/net7.0/csharp
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/bin/Debug/net7.0/csharp.deps.json
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/bin/Debug/net7.0/csharp.runtimeconfig.json
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/bin/Debug/net7.0/csharp.dll
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/bin/Debug/net7.0/csharp.pdb
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.csproj.AssemblyReference.cache
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.AssemblyInfoInputs.cache
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.AssemblyInfo.cs
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.csproj.CoreCompileInputs.cache
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.dll
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/refint/csharp.dll
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.pdb
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/csharp.genruntimeconfig.cache
+/home/bt/saved/semestr5/paradygmaty/lab3final/csharp/obj/Debug/net7.0/ref/csharp.dll
